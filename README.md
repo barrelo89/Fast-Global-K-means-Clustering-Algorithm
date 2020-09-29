@@ -44,7 +44,8 @@ plt.scatter(data[km.labels_ == 2, 0], data[km.labels_ == 2, 1], color = 'b')
 plt.tight_layout()
 plt.show()
 ```
-
+The resultant figure would look as below.<br/>
+![figure](figure/result.png)
 
 
 
